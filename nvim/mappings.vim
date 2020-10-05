@@ -13,3 +13,5 @@ map <C-s> <Esc>:w<CR>
 " Better indenting
 vnoremap < <gv
 vnoremap > >gv
+
+

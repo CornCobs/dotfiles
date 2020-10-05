@@ -3,6 +3,7 @@ call plug#begin('~/.config/nvim/plugged')
     Plug '~/.fzf'
     Plug 'junegunn/fzf.vim'
     Plug 'vim-airline/vim-airline'
+    Plug 'jiangmiao/auto-pairs'
 " Syntax
     Plug 'ap/vim-css-color' "Displays a preview of colors with CSS 
 " Color-schemes
